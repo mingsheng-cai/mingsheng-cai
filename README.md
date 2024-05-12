@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Mingsheng Cai
 - 👀 I’m interested in Automatic Program Repair, Vulnerability Detection, Large Language Model, Deep Learning, ...
 - 🌱 I’m currently learning LLM4ClinicNLP
+- 📫 Reach me through mingsheng.cai23@imperial.ac.uk or mingsheng.cai@outlook.com
+
 <!---
 - 💞️ I’m looking to collaborate on ...
---->
-- 📫 Reach me through mingsheng.cai23@imperial.ac.uk or mingsheng.cai@outlook.com
-<!---
 - 😄 Pronouns: Mingsheng Tsai
 - ⚡ Fun fact: I have interest in Photograph and Travelling.
 --->

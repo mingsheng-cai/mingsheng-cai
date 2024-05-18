@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mingsheng Cai
 - 👀 I’m interested in Automatic Program Repair, Vulnerability Detection, Large Language Model, Deep Learning, ...
-- 🌱 I’m currently learning LLM4ClinicNLP
+- 🌱 I’m currently learning Computational Science at the Imperial
 - 📫 Reach me through mingsheng.cai23@imperial.ac.uk or mingsheng.cai@outlook.com
 
 <!---

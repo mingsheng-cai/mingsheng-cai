@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mingsheng Cai
-- 👀 I’m interested in Automatic Program Repair, Vulnerability Detection, Large Language Model, Deep Learning, ...
-- 🎓 I’m currently learning Computational Science at the Imperial
-- 📫 Reach me through mingsheng.cai23@imperial.ac.uk or mingsheng.cai@outlook.com
+- 🎓 I’m currently researching on Computer Science at the University of Edinburgh
+- 📫 Reach me through m.cai@ed.ac.uk or mingsheng.cai23@imperial.ac.uk
 
 <!---
+- 👀 I’m interested in Automatic Program Repair, Vulnerability Detection, Large Language Model, Deep Learning, ...
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: Mingsheng Tsai
 - ⚡ Fun fact: I have interest in Photograph and Travelling.
